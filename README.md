@@ -18,6 +18,6 @@ DESCARGA EL ARCHIVO .ZIP ARRIBA
 3. COPIA Y PEGA TODOS LOS ARCHIVOS DE ESTA CARPETA Y PEGALOS EN LA CARPETA "game" DEL JUEGO ORIGINAL
 4. ¡DISFRUTA EL JUEGO!.
 
-Link de la traducción para Android: https://github.com/Bunuelos-Asociados/ADateWithDeath-ES/releases/edit/untagged-002c405a5c710bd57617
+Link de la traducción para Android: https://github.com/Bunuelos-Asociados/ADateWithDeath-ES/releases/tag/2.5
 
 Versión 2.5
